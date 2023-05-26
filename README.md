@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @walec91
 - 👀 I’m interested in IT and basketball
-- 🌱 I’m currently learning computer science, with a specialization in graphics
+- 🌱 Completed studies in computer science with specialization in graphics
+- 🌱 Currently studying computer science with a specialization in Python
 - 📫 How to reach me? My e-mail address is walec.kapsel@gmail.com
 
 <!---
